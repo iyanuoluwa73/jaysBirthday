@@ -172,7 +172,7 @@ function Camera() {
             alt="marry"
           />
           <p className="text-center pt-3 text-xs">
-            From "our sister" to somebody's wife. We are still processing it😂
+            From "our sister" to a beloved wife. We are still processing it😂
           </p>
         </div>
         <div className="w-[48%] bg-pink-200 border border-gray-200 p-3 rounded-2xl mt-4">
